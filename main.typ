@@ -59,17 +59,6 @@
 
 == Leadership Experience
 
-#work(
-  title: "Robotics Programming Lead",
-  location: "Clermont, Florida",
-  company: "East Ridge Highschool",
-  dates: dates-helper(start-date: "Aug 2021", end-date: "May 2024"),
-)
-- Developed team soft skills. Translating technical jargon into simple english for other team members.
-- Communicated between subteams, estimating programming task timelines and making sure each team had what they needed from me and vice versa.
-- Led a team of 3 to 6 people each year
-- Met deadlines set by other subteams and the overall one for the First Robotics Competition.
-- Participated in outreach, going to fairs and showcasing STEM to tens of elementary students at each.
 
 #work(
   title: "Robotics President",
@@ -83,34 +72,27 @@
 - Handling bureacracy aspects such as obtaining club storage and keeping track of who currently has what robot kits checked out.
 
 #work(
-  title: "AI Wrangler and Code Ninja",
-  location: "Silicon Mirage, CA",
-  company: "Organic Stupidity Startup",
-  dates: dates-helper(start-date: "Dec 2023", end-date: "Mar 2024"),
+  title: "Coding Club President",
+  location: "Granville, Ohio",
+  company: "Denison University",
+  dates: dates-helper(start-date: "Aug 2024", end-date: "Present"),
 )
-- Taught robots to predict when (and how much!) humans will empty their wallets at the doctor's office
-- Developed HIPAA-compliant digital signatures, because doctors' handwriting wasn't illegible enough already
-- Turned spaghetti code into a gourmet dish, making other interns drool with envy
+- Founded the Coding Club last year
+- Hosting events from game jams to competitive programming competitions
+- Coded competition software for use by the club, required ~30 hours with ongoing additions
+- Communicating with our art department for logos, flyers, and other advertising materials
 
 #work(
-  title: "Digital Playground Architect",
-  location: "The Cloud",
-  company: "Pixels & Profit Interactive",
-  dates: dates-helper(start-date: "Jun 2020", end-date: "May 2023"),
+  title: "Robotics Programming Lead",
+  location: "Clermont, Florida",
+  company: "East Ridge Highschool",
+  dates: dates-helper(start-date: "Aug 2021", end-date: "May 2024"),
 )
-- Scaled user base from 10 to 2000+, accidentally becoming a small wealthy nation in the process
-- Crafted Bash scripts so clever they occasionally made other engineers weep with joy
-- Automated support responses, reducing human interaction to a level that would make introverts proud
-- Built a documentation site that actually got read, breaking the ancient RTFM curse
-
-#work(
-  title: "Code Conjurer Intern",
-  location: "Silicon Suburb, CA",
-  company: "Bits & Bytes Consulting",
-  dates: dates-helper(start-date: "Jun 2022", end-date: "Aug 2022"),
-)
-- Developed a cross-platform mobile app that turned every user into a potential paparazzi
-- Led a security overhaul, heroically saving the company from the menace of "password123"
+- Developed team soft skills. Translating technical jargon into simple english for other team members.
+- Communicated between subteams, estimating programming task timelines and making sure each team had what they needed from me and vice versa.
+- Led a team of 3 to 6 people each year
+- Met deadlines set by other subteams and the overall one for the First Robotics Competition.
+- Participated in outreach, going to fairs and showcasing STEM to tens of elementary students at each.
 
 == Projects
 
