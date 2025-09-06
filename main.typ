@@ -75,13 +75,12 @@
   title: "Robotics President",
   location: "Granville, Ohio",
   company: "Denison University",
-  dates: dates-helper(start-date: "Aug 2025", end-date: "May 2024"),
+  dates: dates-helper(start-date: "Aug 2025", end-date: "Present"),
 )
-- Developed team soft skills. Translating technical jargon into simple english for other team members.
-- Communicated between subteams, estimating programming task timelines and making sure each team had what they needed from me and vice versa.
-- Led a team of 3 to 6 people each year
-- Met deadlines set by other subteams and the overall one for the First Robotics Competition.
-- Participated in outreach, going to fairs and showcasing STEM to tens of elementary students at each.
+- Spearheading the continued robotics club after being founded last year and the entirety of the old exec team leaving.
+- Hosting competitions between the members
+- Resourcefully using \$3500 of funding
+- Handling bureacracy aspects such as obtaining club storage and keeping track of who currently has what robot kits checked out.
 
 #work(
   title: "AI Wrangler and Code Ninja",
