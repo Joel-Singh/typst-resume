@@ -66,10 +66,10 @@
   company: "Denison University",
   dates: dates-helper(start-date: "Aug 2025", end-date: "Present"),
 )
-- Spearheading the continued robotics club after being founded last year and the entirety of the old exec team leaving.
+- Spearheading the continued existence of robotics after being founded last year.
 - Hosting competitions between the members.
 - Resourcefully using \$3500 of funding.
-- Handling bureacracy aspects such as obtaining club storage and keeping track of who currently has what robot kits checked out.
+- Handling bureacracy aspects such as obtaining on-campus club storage and keeping track of who currently has what robot kits checked out.
 
 #work(
   title: "Coding Club President",
@@ -79,7 +79,7 @@
 )
 - Founded the Coding Club last year.
 - Hosting events from game jams to competitive programming competitions.
-- Coded competition software for use by the club, required ~30 hours with ongoing additions.
+- Coded competition software for use by the club, required \~30 hours of work with ongoing additions now.
 - Communicating with our art department for logos, flyers, and other advertising materials.
 
 #work(
@@ -98,3 +98,4 @@
 - *Questbridge Scholar*: Full-ride merit scholarship for high-achieving low-income students.
 - *AP Scholar*
 - *Exordium*: Denison University's first year Scholar-Leader program
+- *Florida Bright Futures*: Qualified for Florida Bright Futures, a full-tuition scholarship requiring a 3.5 GPA and a hundred volunteer hours
