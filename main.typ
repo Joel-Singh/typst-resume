@@ -15,6 +15,7 @@
   email: email,
   phone: phone,
   accent-color: "#26428b",
+  personal-site: "joel-singh.com",
   font: "New Computer Modern",
   paper: "us-letter",
   author-position: left,
@@ -58,41 +59,47 @@
 )
 
 == Leadership Experience
-
-
 #work(
   title: "Robotics President",
   location: "Granville, Ohio",
   company: "Denison University",
   dates: dates-helper(start-date: "Aug 2025", end-date: "Present"),
 )
-- Spearheading the continued existence of robotics after being founded last year.
-- Hosting competitions between the members.
-- Resourcefully using \$3500 of funding.
-- Handling bureacracy aspects such as obtaining on-campus club storage and keeping track of who currently has what robot kits checked out.
+- Spearheading the continued existence of robotics after being founded last year
+- Hosting competitions between the members giving out and keeping track of >100\$ kits
+- Using \$3500 of funding resourcefully
+- Handling bureacracy such as obtaining on-campus club storage and tracking assets
 
 #work(
-  title: "Coding Club President",
+  title: "DU Code (Coding Club) President",
   location: "Granville, Ohio",
   company: "Denison University",
   dates: dates-helper(start-date: "Aug 2024", end-date: "Present"),
 )
-- Founded the Coding Club last year.
-- Hosting events from game jams to competitive programming competitions.
-- Coded competition software for use by the club, required \~30 hours of work with ongoing additions now.
-- Communicating with our art department for logos, flyers, and other advertising materials.
+- Founded the Coding Club last year
+- Hosting events from game jams to competitive programming competitions
+- Coded competition software for use by the club, required \~30 hours of work with ongoing maintenance
+- Communicating with our art department for logos, flyers, and other advertising materials
 
 #work(
-  title: "Robotics Programming Lead",
-  location: "Clermont, Florida",
-  company: "East Ridge Highschool",
-  dates: dates-helper(start-date: "Aug 2021", end-date: "May 2024"),
+  title: "DU Code Working Group Founder",
+  location: "Granville, Ohio",
+  company: "Denison University",
+  dates: dates-helper(start-date: "Aug 2025", end-date: "Present"),
 )
-- Developed team soft skills. Translating technical jargon into simple english for other team members.
-- Communicated between subteams, estimating programming task timelines and making sure each team had what they needed from me and vice versa.
-- Led a team of 3 to 6 people each year.
-- Met deadlines set by other subteams and the overall one for the First Robotics Competition.
-- Participated in outreach, going to fairs and showcasing STEM to tens of elementary students at each.
+- Sub-team of Coding Club dedicated to writing competition software
+- Mentoring the first cohort in Software Development: Git, Test Driven Development, OOP in C++, pull-based workflow
+- Reviewing code changes, prescribing feedback
+- Managing a team for semesterly releases of unique Coding Competitions
+
+== Projects
+
+- hoops boops and loops
+- Personal Website
+- Where's Waldo
+- DU Slither
+- Robot 2023
+- Florally Great
 
 == Awards
 - *Questbridge Scholar*: Full-ride merit scholarship for high-achieving low-income students.
