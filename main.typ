@@ -1,5 +1,6 @@
 #import "@preview/basic-resume:0.2.8": *
 
+#text(black)[]
 // Put your personal information here, replacing mine
 #let name = "Joel Singh"
 #let location = "Granville, OH"
@@ -48,16 +49,6 @@
 )
 - Cumulative GPA: 3.67\/4.0 | Dean's List, Full-Ride Questbridge Scholarship
 
-#edu(
-  institution: "East Ridge Highschool",
-  location: "Clermont, FL",
-  dates: dates-helper(start-date: "Aug 2020", end-date: "May 2024"),
-  degree: "Highschool Degree",
-
-  // Uncomment the line below if you want edu formatting to be consistent with everything else
-  // consistent: true
-)
-
 == Leadership Experience
 #work(
   title: "Robotics President",
@@ -66,12 +57,12 @@
   dates: dates-helper(start-date: "Aug 2025", end-date: "Present"),
 )
 - Spearheading the continued existence of robotics after being founded last year
-- Hosting competitions between the members giving out and keeping track of >100\$ kits
-- Using \$3500 of funding resourcefully
+- Hosting competitions between the members giving out and keeping track of \$100 kits
+- Managing \$3500 of funding
 - Handling bureacracy such as obtaining on-campus club storage and tracking assets
 
 #work(
-  title: "DU Code (Coding Club) President",
+  title: "Coding Club President",
   location: "Granville, Ohio",
   company: "Denison University",
   dates: dates-helper(start-date: "Aug 2024", end-date: "Present"),
@@ -87,19 +78,21 @@
   company: "Denison University",
   dates: dates-helper(start-date: "Aug 2025", end-date: "Present"),
 )
-- Sub-team of Coding Club dedicated to writing competition software
-- Mentoring the first cohort in Software Development: Git, Test Driven Development, OOP in C++, pull-based workflow
-- Reviewing code changes, prescribing feedback
+- Offshoot of Coding Club dedicated to writing competition software
+- Mentoring the first cohort in Software Development: Git, TDD, OOP and pull-based workflow
+- Reviewing code changes
 - Managing a team for semesterly releases of unique Coding Competitions
 
 == Projects
 
-- hoops boops and loops
-- Personal Website
-- Where's Waldo
-- DU Slither
-- Robot 2023
-- Florally Great
+#work(
+  title: "Hoops Boops And Loops",
+  company: "GMTK 2025 Game Jam",
+)
+- https://github.com/Joel-Singh/hoops-boops-and-loops
+- Created an entire game using Rust in a single weekend
+- Communicated across a team for audio, programming, and art
+- Ranked ahead 1000 other entries in "Enjoyment"
 
 == Awards
 - *Questbridge Scholar*: Full-ride merit scholarship for high-achieving low-income students.
