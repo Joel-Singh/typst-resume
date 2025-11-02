@@ -94,6 +94,13 @@
 - Communicated across a team for audio, programming, and art
 - Ranked ahead 1000 other entries in "Enjoyment"
 
+// - hoops boops and loops
+// - Personal Website
+// - Where's Waldo
+// - DU Slither
+// - Robot 2023
+// - Florally Great
+
 == Awards
 - *Questbridge Scholar*: Full-ride merit scholarship for high-achieving low-income students.
 - *AP Scholar*
